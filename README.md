@@ -2,6 +2,8 @@
 
 # Proyecto: FashionPixel
 
+---
+
 ## Explicación del Problema
 
 En el mundo actual, la moda juega un papel fundamental en la expresión personal, la comunicación social y la economía global. Desdes la elección de nuestra vestimenta diaria hasta las tendencias que marcan las pasarelas, la ropa es un lenguaje visual que siempre está presente. Sin embargo, identificar y categorizar las prendas que vemos en nuestro entorno, ya sea en fotos, redes sociales o incluso en nuestro propio armario, puede ser una tarea desafiante y a menudo subjetiva.
